@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KaniniStocksApplication</string>
+    <string name="app_my_pref">mysettings</string>
+</resources>
